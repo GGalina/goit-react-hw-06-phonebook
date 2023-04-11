@@ -24,7 +24,7 @@ export const Input = styled.input`
     border-radius: 10px;
     outline: none;
     border: none;
-
+    box-shadow: 2px 2px 7px 0px #1f1d1d;
     :focus {
         border: 2px solid #55bb55;
     }
